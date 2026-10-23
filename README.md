@@ -3,7 +3,7 @@
 Behavioural analysis of 10,000 European bank customers: how engagement, product
 depth and balance relate to churn.
 
-**Live dashboard:** (add Streamlit link here)
+**Live dashboard:** https://european-bank-retention-analytics-prjct.streamlit.app/
 
 ## Pipeline
 1. `validate.py` - data validation and cleaning -> `bank_clean.csv`
